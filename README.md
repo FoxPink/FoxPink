@@ -1,32 +1,12 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=250&section=header&text=FoxPink&fontSize=70&fontColor=00d2ff&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20Web3%20Security%20Researcher&descAlignY=52&descSize=18)](https://github.com/FoxPink)
+[![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=FoxPink&fontSize=70&fontColor=00d2ff&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Web3%20Security%20Researcher&descAlignY=55&descSize=16)](https://github.com/FoxPink)
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Engineer+(React+%2F+Next.js);Smart+Contract+Security+Researcher;DeFi+Bug+Hunter+%26+Responsible+Disclosure;EVM+Gas+Optimization+%26+SLOAD+Surgery;Production-Grade+Full-Stack+Development&font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=00D2FF&center=true&width=700&height=50&repeat=true&background=FFFFFF00" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+with+React+%2F+Next.js+%2F+TypeScript;Smart+Contract+Audits+%26+Gas+Optimization;DeFi+Bug+Hunting+%26+Responsible+Disclosure;EVM+Storage+Layout+%26+SLOAD+Surgery;Building+%2F+Breaking+in+equal+measure&font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00D2FF&center=true&width=700&height=50&repeat=true&background=FFFFFF00" alt="typing" />
 </p>
 
 ---
 
-### About
-
-Frontend engineer by trade, Solidity security researcher by passion. I build UIs with React and Next.js, then tear down EVM smart contracts to find what breaks. Every bug I find becomes a PR with a test case and a gas benchmark.
-
----
-
-### How I Work
-
-```
-1. Fork the target repo
-2. Identify vulnerable patterns (unsafe transfer, SLOAD loops, oracle manipulation)
-3. Write a PoC forge test proving the bug
-4. Fix + benchmark gas savings
-5. Submit PR with detailed writeup
-```
-
----
-
-### Live Track Record
+### Track Record
 
 | Protocol | Component | Impact | Findings | PR |
 | :--- | :--- | :---: | :--- | :---: |
@@ -41,7 +21,7 @@ Frontend engineer by trade, Solidity security researcher by passion. I build UIs
 
 ---
 
-### Tech Stack
+### Stack
 
 **Frontend**
 
@@ -51,9 +31,10 @@ Frontend engineer by trade, Solidity security researcher by passion. I build UIs
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Security**
+**Security & EVM**
 
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -66,28 +47,34 @@ Frontend engineer by trade, Solidity security researcher by passion. I build UIs
 
 ---
 
-### GitHub
+### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FoxPink&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxPink&layout=compact&theme=radical&hide_border=true&border_radius=8" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxPink&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoxPink&theme=radical&hide_border=true&border_radius=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FoxPink&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FoxPink&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxPink&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoxPink&theme=tokyonight&hide_border=true&border_radius=8" />
 </p>
 
 ---
 
 ### Contact
 
-```yaml
-email: aduy000@gmail.com
-github: FoxPink
-```
+**email:** aduy000@gmail.com  
+**github:** [FoxPink](https://github.com/FoxPink)
 
 <p align="center">
   <i>"Don't trust the narrative. Trust the EVM state."</i>
 </p>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)](https://github.com/FoxPink)
+[![footer](https://capsule-render.vercel.app/api?type=shark&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)](https://github.com/FoxPink)
