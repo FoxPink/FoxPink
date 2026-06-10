@@ -24,10 +24,6 @@
 ---
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=FoxPink&theme=crt&screen_effect=true&pixelate_avatar=true&include_all_commits=true" width="90%" alt="pixel stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxPink&theme=github-compact&hide_border=true&area=true&custom_title=contributions" width="95%" />
 </p>
 
