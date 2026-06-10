@@ -1,10 +1,28 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=250&section=header&text=FoxPink&fontSize=70&fontColor=00d2ff&fontAlignY=32&desc=Web3%20Security%20Researcher%20%7C%20EVM%20Gas%20Optimizer&descAlignY=52&descSize=18)](https://github.com/FoxPink)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=250&section=header&text=FoxPink&fontSize=70&fontColor=00d2ff&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20Web3%20Security%20Researcher&descAlignY=52&descSize=18)](https://github.com/FoxPink)
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?lines=Smart+Contract+Security+Audits;EVM+Gas+Optimization+%26+SLOAD+Surgery;DeFi+Bug+Hunting+%26+Responsible+Disclosure;Structural+Vulnerability+Discovery;Production-Grade+EVM+Optimization&font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00D2FF&center=true&width=600&height=50&repeat=true&background=FFFFFF00" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Engineer+(React+%2F+Next.js);Smart+Contract+Security+Researcher;DeFi+Bug+Hunter+%26+Responsible+Disclosure;EVM+Gas+Optimization+%26+SLOAD+Surgery;Production-Grade+Full-Stack+Development&font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=00D2FF&center=true&width=700&height=50&repeat=true&background=FFFFFF00" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+### About
+
+Frontend engineer by trade, Solidity security researcher by passion. I build UIs with React and Next.js, then tear down EVM smart contracts to find what breaks. Every bug I find becomes a PR with a test case and a gas benchmark.
+
+---
+
+### How I Work
+
+```
+1. Fork the target repo
+2. Identify vulnerable patterns (unsafe transfer, SLOAD loops, oracle manipulation)
+3. Write a PoC forge test proving the bug
+4. Fix + benchmark gas savings
+5. Submit PR with detailed writeup
+```
 
 ---
 
@@ -23,20 +41,28 @@
 
 ---
 
-### Arsenal
+### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yul-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+**Security**
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
   <img src="https://img.shields.io/badge/Slither-5E5CE6?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Echidna-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
-
-**Expertise:** DeFi protocol security, price oracle manipulation, flash loan attack vectors, ERC20 non-compliance, storage layout optimization (SLOAD/SSTORE), upgradeable proxy patterns
 
 ---
 
