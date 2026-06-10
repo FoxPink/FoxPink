@@ -58,7 +58,7 @@
 
 ```
 email  aduy000@gmail.com
-web    github.com/FoxPink
+web    https://portfolio-foxpinks-projects.vercel.app/
 ```
 
 <p align="center">
