@@ -10,18 +10,62 @@
 
 ### track record
 
-| protocol | component | impact | pr |
-| :--- | :--- | :---: | :---: |
-| `moonwell` | `Comptroller` `MErc20` `xWELLRouter` | critical | [`#666`](https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666) |
-| `extra-finance` | `StakingRewards.sol` | high | [`#6`](https://github.com/ExtraFi/extra-contracts/pull/6) |
-| `darwin` | `BasketVault.sol` | critical | [`#1`](https://github.com/dyonisos100/darwin/pull/1) |
-| `tokemak-v1` | `DefiRound.sol` `EventProxy.sol` | high | [`#18`](https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18) |
-| `tokemak-v2` | `RedstoneOracle.sol` `Balancer*Vault.sol` | high | [`#2`](https://github.com/Tokemak/v2-core-pub/pull/2) |
-| `safebase` | `Treasury.sol` | high | [`#6`](https://github.com/natalya-bbr/SafeBase/pull/6) |
-| `basedollar` | `TroveManager.sol` | high | [`#138`](https://github.com/basedollar/basedollar/pull/138) |
-| `grip-foundation` | `ServiceEscrow.sol` | gas | [`#1`](https://github.com/grip-foundation/protocol/pull/1) |
-
----
+<table width="100%">
+  <tr>
+    <th align="left">protocol</th>
+    <th align="left">component</th>
+    <th align="center">impact</th>
+    <th align="center">pr</th>
+  </tr>
+  <tr>
+    <td><code>moonwell</code></td>
+    <td><code>Comptroller</code> <code>MErc20</code> <code>xWELLRouter</code></td>
+    <td align="center">critical</td>
+    <td align="center"><a href="https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666"><code>#666</code></a></td>
+  </tr>
+  <tr>
+    <td><code>extra-finance</code></td>
+    <td><code>StakingRewards.sol</code></td>
+    <td align="center">high</td>
+    <td align="center"><a href="https://github.com/ExtraFi/extra-contracts/pull/6"><code>#6</code></a></td>
+  </tr>
+  <tr>
+    <td><code>darwin</code></td>
+    <td><code>BasketVault.sol</code></td>
+    <td align="center">critical</td>
+    <td align="center"><a href="https://github.com/dyonisos100/darwin/pull/1"><code>#1</code></a></td>
+  </tr>
+  <tr>
+    <td><code>tokemak-v1</code></td>
+    <td><code>DefiRound.sol</code> <code>EventProxy.sol</code></td>
+    <td align="center">high</td>
+    <td align="center"><a href="https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18"><code>#18</code></a></td>
+  </tr>
+  <tr>
+    <td><code>tokemak-v2</code></td>
+    <td><code>RedstoneOracle.sol</code> <code>Balancer*Vault.sol</code></td>
+    <td align="center">high</td>
+    <td align="center"><a href="https://github.com/Tokemak/v2-core-pub/pull/2"><code>#2</code></a></td>
+  </tr>
+  <tr>
+    <td><code>safebase</code></td>
+    <td><code>Treasury.sol</code></td>
+    <td align="center">high</td>
+    <td align="center"><a href="https://github.com/natalya-bbr/SafeBase/pull/6"><code>#6</code></a></td>
+  </tr>
+  <tr>
+    <td><code>basedollar</code></td>
+    <td><code>TroveManager.sol</code></td>
+    <td align="center">high</td>
+    <td align="center"><a href="https://github.com/basedollar/basedollar/pull/138"><code>#138</code></a></td>
+  </tr>
+  <tr>
+    <td><code>grip-foundation</code></td>
+    <td><code>ServiceEscrow.sol</code></td>
+    <td align="center">gas</td>
+    <td align="center"><a href="https://github.com/grip-foundation/protocol/pull/1"><code>#1</code></a></td>
+  </tr>
+</table>
 
 ---
 
