@@ -8,22 +8,22 @@
 
 ---
 
-### 📊 Live Track Record
+### Live Track Record
 
 | Protocol | Component | Impact | Findings | PR |
 | :--- | :--- | :---: | :--- | :---: |
-| **Moonwell** ($500M+ TVL) | `Comptroller`, `MErc20`, `xWELLRouter` | 🔴 Critical | 3 unsafe ERC20 transfers, 2 raw approves, 9 SLOAD caches | [#666](https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666) |
-| **Extra Finance** | `StakingRewards.sol` | 🔴 High | Raw `.transfer()` → `safeTransfer`, 8 SLOAD caches | [#6](https://github.com/ExtraFi/extra-contracts/pull/6) |
-| **darwin** | `BasketVault.sol` | 🔴 Critical | NAV/share price manipulation, dead code removal | [#1](https://github.com/dyonisos100/darwin/pull/1) |
-| **Tokemak v1** | `DefiRound.sol`, `EventProxy.sol` | 🔴 High | Chainlink oracle staleness, SLOAD loops | [#18](https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18) |
-| **Tokemak v2** | `RedstoneOracle.sol`, `Balancer*Vault.sol` | 🔴 High | Missing roundId validation, SLOAD loops | [#2](https://github.com/Tokemak/v2-core-pub/pull/2) |
-| **SafeBase** | `Treasury.sol` | 🔴 High | USDT silent transfer failure | [#6](https://github.com/natalya-bbr/SafeBase/pull/6) |
-| **basedollar** | `TroveManager.sol` | 🔴 High | OOG in liquidation, 10.5k gas/trove | [#138](https://github.com/basedollar/basedollar/pull/138) |
-| **grip-foundation** | `ServiceEscrow.sol` | 🟡 Gas | 3 SLOAD cache hotspots, 4k–6k gas saved | [#1](https://github.com/grip-foundation/protocol/pull/1) |
+| **Moonwell** ($500M+ TVL) | `Comptroller`, `MErc20`, `xWELLRouter` | Critical | 3 unsafe ERC20 transfers, 2 raw approves, 9 SLOAD caches | [#666](https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666) |
+| **Extra Finance** | `StakingRewards.sol` | High | Raw `.transfer()` -> `safeTransfer`, 8 SLOAD caches | [#6](https://github.com/ExtraFi/extra-contracts/pull/6) |
+| **darwin** | `BasketVault.sol` | Critical | NAV/share price manipulation, dead code removal | [#1](https://github.com/dyonisos100/darwin/pull/1) |
+| **Tokemak v1** | `DefiRound.sol`, `EventProxy.sol` | High | Chainlink oracle staleness, SLOAD loops | [#18](https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18) |
+| **Tokemak v2** | `RedstoneOracle.sol`, `Balancer*Vault.sol` | High | Missing roundId validation, SLOAD loops | [#2](https://github.com/Tokemak/v2-core-pub/pull/2) |
+| **SafeBase** | `Treasury.sol` | High | USDT silent transfer failure | [#6](https://github.com/natalya-bbr/SafeBase/pull/6) |
+| **basedollar** | `TroveManager.sol` | High | OOG in liquidation, 10.5k gas/trove | [#138](https://github.com/basedollar/basedollar/pull/138) |
+| **grip-foundation** | `ServiceEscrow.sol` | Gas | 3 SLOAD cache hotspots, 4k-6k gas saved | [#1](https://github.com/grip-foundation/protocol/pull/1) |
 
 ---
 
-### ⚙️ Arsenal
+### Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📈 GitHub
+### GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FoxPink&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" height="170" />
@@ -53,12 +53,11 @@
 
 ---
 
-### 📡 Contact
+### Contact
 
 ```yaml
-email: [your-email]
+email: aduy000@gmail.com
 github: FoxPink
-evm:   [0x...]
 ```
 
 <p align="center">
