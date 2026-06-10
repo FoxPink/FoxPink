@@ -12,10 +12,10 @@
 
 <table width="100%">
   <tr>
-    <th align="left">protocol</th>
-    <th align="left">component</th>
-    <th align="center">impact</th>
-    <th align="center">pr</th>
+    <th align="left" width="18%">protocol</th>
+    <th align="left" width="45%">component</th>
+    <th align="center" width="15%">impact</th>
+    <th align="center" width="22%">pr</th>
   </tr>
   <tr>
     <td><code>moonwell</code></td>
