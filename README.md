@@ -23,10 +23,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxPink&theme=github-compact&hide_border=true&area=true&custom_title=contributions" width="95%" />
-</p>
-
 ---
 
 ### stack
