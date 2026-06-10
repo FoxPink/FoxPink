@@ -10,62 +10,17 @@
 
 ### track record
 
-<table width="100%">
-  <tr>
-    <th align="left" width="18%">protocol</th>
-    <th align="left" width="45%">component</th>
-    <th align="center" width="15%">impact</th>
-    <th align="center" width="22%">pr</th>
-  </tr>
-  <tr>
-    <td><code>moonwell</code></td>
-    <td><code>Comptroller</code> <code>MErc20</code> <code>xWELLRouter</code></td>
-    <td align="center">critical</td>
-    <td align="center"><a href="https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666"><code>#666</code></a></td>
-  </tr>
-  <tr>
-    <td><code>extra-finance</code></td>
-    <td><code>StakingRewards.sol</code></td>
-    <td align="center">high</td>
-    <td align="center"><a href="https://github.com/ExtraFi/extra-contracts/pull/6"><code>#6</code></a></td>
-  </tr>
-  <tr>
-    <td><code>darwin</code></td>
-    <td><code>BasketVault.sol</code></td>
-    <td align="center">critical</td>
-    <td align="center"><a href="https://github.com/dyonisos100/darwin/pull/1"><code>#1</code></a></td>
-  </tr>
-  <tr>
-    <td><code>tokemak-v1</code></td>
-    <td><code>DefiRound.sol</code> <code>EventProxy.sol</code></td>
-    <td align="center">high</td>
-    <td align="center"><a href="https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18"><code>#18</code></a></td>
-  </tr>
-  <tr>
-    <td><code>tokemak-v2</code></td>
-    <td><code>RedstoneOracle.sol</code> <code>Balancer*Vault.sol</code></td>
-    <td align="center">high</td>
-    <td align="center"><a href="https://github.com/Tokemak/v2-core-pub/pull/2"><code>#2</code></a></td>
-  </tr>
-  <tr>
-    <td><code>safebase</code></td>
-    <td><code>Treasury.sol</code></td>
-    <td align="center">high</td>
-    <td align="center"><a href="https://github.com/natalya-bbr/SafeBase/pull/6"><code>#6</code></a></td>
-  </tr>
-  <tr>
-    <td><code>basedollar</code></td>
-    <td><code>TroveManager.sol</code></td>
-    <td align="center">high</td>
-    <td align="center"><a href="https://github.com/basedollar/basedollar/pull/138"><code>#138</code></a></td>
-  </tr>
-  <tr>
-    <td><code>grip-foundation</code></td>
-    <td><code>ServiceEscrow.sol</code></td>
-    <td align="center">gas</td>
-    <td align="center"><a href="https://github.com/grip-foundation/protocol/pull/1"><code>#1</code></a></td>
-  </tr>
-</table>
+<pre>
+protocol        component                                                     impact     pr
+<a href="https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666">moonwell</a>        Comptroller MErc20 xWELLRouter                                critical   <a href="https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666">#666</a>
+<a href="https://github.com/ExtraFi/extra-contracts/pull/6">extra-finance</a>   StakingRewards.sol                                            high       <a href="https://github.com/ExtraFi/extra-contracts/pull/6">#6</a>
+<a href="https://github.com/dyonisos100/darwin/pull/1">darwin</a>          BasketVault.sol                                               critical   <a href="https://github.com/dyonisos100/darwin/pull/1">#1</a>
+<a href="https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18">tokemak-v1</a>      DefiRound.sol EventProxy.sol                                  high       <a href="https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18">#18</a>
+<a href="https://github.com/Tokemak/v2-core-pub/pull/2">tokemak-v2</a>      RedstoneOracle.sol Balancer*Vault.sol                         high       <a href="https://github.com/Tokemak/v2-core-pub/pull/2">#2</a>
+<a href="https://github.com/natalya-bbr/SafeBase/pull/6">safebase</a>        Treasury.sol                                                  high       <a href="https://github.com/natalya-bbr/SafeBase/pull/6">#6</a>
+<a href="https://github.com/basedollar/basedollar/pull/138">basedollar</a>      TroveManager.sol                                              high       <a href="https://github.com/basedollar/basedollar/pull/138">#138</a>
+<a href="https://github.com/grip-foundation/protocol/pull/1">grip-foundation</a> ServiceEscrow.sol                                             gas        <a href="https://github.com/grip-foundation/protocol/pull/1">#1</a>
+</pre>
 
 ---
 
