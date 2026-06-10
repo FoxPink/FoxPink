@@ -10,17 +10,21 @@
 
 ### track record
 
-<pre>
-protocol        component                                                     impact     pr
-<a href="https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666">moonwell</a>        Comptroller MErc20 xWELLRouter                                critical   <a href="https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666">#666</a>
-<a href="https://github.com/ExtraFi/extra-contracts/pull/6">extra-finance</a>   StakingRewards.sol                                            high       <a href="https://github.com/ExtraFi/extra-contracts/pull/6">#6</a>
-<a href="https://github.com/dyonisos100/darwin/pull/1">darwin</a>          BasketVault.sol                                               critical   <a href="https://github.com/dyonisos100/darwin/pull/1">#1</a>
-<a href="https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18">tokemak-v1</a>      DefiRound.sol EventProxy.sol                                  high       <a href="https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18">#18</a>
-<a href="https://github.com/Tokemak/v2-core-pub/pull/2">tokemak-v2</a>      RedstoneOracle.sol Balancer*Vault.sol                         high       <a href="https://github.com/Tokemak/v2-core-pub/pull/2">#2</a>
-<a href="https://github.com/natalya-bbr/SafeBase/pull/6">safebase</a>        Treasury.sol                                                  high       <a href="https://github.com/natalya-bbr/SafeBase/pull/6">#6</a>
-<a href="https://github.com/basedollar/basedollar/pull/138">basedollar</a>      TroveManager.sol                                              high       <a href="https://github.com/basedollar/basedollar/pull/138">#138</a>
-<a href="https://github.com/grip-foundation/protocol/pull/1">grip-foundation</a> ServiceEscrow.sol                                             gas        <a href="https://github.com/grip-foundation/protocol/pull/1">#1</a>
-</pre>
+<details>
+<summary>8 contributions submitted</summary>
+
+| protocol | component | impact | pr |
+| :--- | :--- | :---: | :---: |
+| moonwell | `Comptroller` `MErc20` `xWELLRouter` | critical | [#666](https://github.com/moonwell-fi/moonwell-contracts-v2/pull/666) |
+| extra-finance | `StakingRewards.sol` | high | [#6](https://github.com/ExtraFi/extra-contracts/pull/6) |
+| darwin | `BasketVault.sol` | critical | [#1](https://github.com/dyonisos100/darwin/pull/1) |
+| tokemak-v1 | `DefiRound.sol` `EventProxy.sol` | high | [#18](https://github.com/Tokemak/tokemak-smart-contracts-public/pull/18) |
+| tokemak-v2 | `RedstoneOracle.sol` `Balancer*Vault.sol` | high | [#2](https://github.com/Tokemak/v2-core-pub/pull/2) |
+| safebase | `Treasury.sol` | high | [#6](https://github.com/natalya-bbr/SafeBase/pull/6) |
+| basedollar | `TroveManager.sol` | high | [#138](https://github.com/basedollar/basedollar/pull/138) |
+| grip-foundation | `ServiceEscrow.sol` | gas | [#1](https://github.com/grip-foundation/protocol/pull/1) |
+
+</details>
 
 ---
 
